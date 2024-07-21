@@ -1,0 +1,16 @@
+{
+    "name": "andijaya/php-mvc-example1",
+    "description": "php mvc example1",
+    "autoload": {
+        "psr-4": {
+          "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andijayawizard",
+            "email": "andijayawizard@gmail.com"
+        }
+    ],
+    "require": {}
+}
