@@ -1,3 +1,6 @@
+<?php
+require_once 'navbar.php';
+?>
 <h1>Welcome to Simple PHP MVC Starter!</h1>
 <ul>
     <?php foreach ($journals as $journal) : ?>
