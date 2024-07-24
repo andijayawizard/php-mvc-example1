@@ -7,3 +7,4 @@ require_once 'navbar.php';
         <li><?= $journal->name ?> (<?= $journal->publishedYear ?>)</li>
     <?php endforeach; ?>
 </ul>
+
